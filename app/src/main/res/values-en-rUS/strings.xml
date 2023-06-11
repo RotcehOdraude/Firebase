@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HarryPotter</string>
+    <string name="ejemplo">Example</string>
+    <string name="EMPTY">Unavailable</string>
+    <string name="btnStudentString">Estudiante</string>
+    <string name="btnStaffString">Profesores</string>
+    <string name="tvTitle">Selecciona una opción</string>
+</resources>
