@@ -3,6 +3,11 @@
     <color name="black">#2D2935</color>
     <color name="white">#FFFFFFFF</color>
 
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="textInputLayout">#96ffffff</color>
+
     <color name="seed">#8836b6</color>
     <color name="md_theme_light_primary">#8836B6</color>
     <color name="md_theme_light_onPrimary">#FFFFFF</color>
